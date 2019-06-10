@@ -92,7 +92,11 @@ namespace WolterKluwer.POS.Terminal.Console
                         var resultorder = JsonConvert.DeserializeObject<Order>(response.Content.ReadAsStringAsync().Result);
                         System.Console.WriteLine($"\nProducts scanned successfully : Total Price for products ${resultorder.TotalAmount}");
                         System.Console.WriteLine($"\n\n   Receipt of the Order\n");
+
+                        //Generate Receipt
                         System.Console.WriteLine($"{ _iposTerminalService.PrintReceipt(resultorder).Body}");
+
+                        //Either Pay by Card or Cash or Mobile
                         _iposTerminalService.Payment(resultorder.TotalAmount, ref Message);
                         System.Console.WriteLine($"\n" + Message);
                     }

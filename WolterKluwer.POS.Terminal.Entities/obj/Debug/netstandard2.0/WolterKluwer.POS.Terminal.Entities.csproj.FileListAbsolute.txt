@@ -1,7 +1,6 @@
 C:\Bhushan\AsssesmentWolterKluwers\WolterKluwer.POS.Terminal.API\WolterKluwer.POS.Terminal.Entities\bin\Debug\netstandard2.0\WolterKluwer.POS.Terminal.Entities.deps.json
 C:\Bhushan\AsssesmentWolterKluwers\WolterKluwer.POS.Terminal.API\WolterKluwer.POS.Terminal.Entities\bin\Debug\netstandard2.0\WolterKluwer.POS.Terminal.Entities.dll
 C:\Bhushan\AsssesmentWolterKluwers\WolterKluwer.POS.Terminal.API\WolterKluwer.POS.Terminal.Entities\bin\Debug\netstandard2.0\WolterKluwer.POS.Terminal.Entities.pdb
-C:\Bhushan\AsssesmentWolterKluwers\WolterKluwer.POS.Terminal.API\WolterKluwer.POS.Terminal.Entities\obj\Debug\netstandard2.0\WolterKluwer.POS.Terminal.Entities.csprojResolveAssemblyReference.cache
 C:\Bhushan\AsssesmentWolterKluwers\WolterKluwer.POS.Terminal.API\WolterKluwer.POS.Terminal.Entities\obj\Debug\netstandard2.0\WolterKluwer.POS.Terminal.Entities.csproj.CoreCompileInputs.cache
 C:\Bhushan\AsssesmentWolterKluwers\WolterKluwer.POS.Terminal.API\WolterKluwer.POS.Terminal.Entities\obj\Debug\netstandard2.0\WolterKluwer.POS.Terminal.Entities.AssemblyInfoInputs.cache
 C:\Bhushan\AsssesmentWolterKluwers\WolterKluwer.POS.Terminal.API\WolterKluwer.POS.Terminal.Entities\obj\Debug\netstandard2.0\WolterKluwer.POS.Terminal.Entities.AssemblyInfo.cs
