@@ -1,0 +1,9 @@
+C:\Bhushan\AsssesmentWolterKluwers\WolterKluwer.POS.Terminal.API\WolterKluwer.POS.Terminal.Utilities\bin\Debug\netstandard2.0\WolterKluwer.POS.Terminal.Utilities.deps.json
+C:\Bhushan\AsssesmentWolterKluwers\WolterKluwer.POS.Terminal.API\WolterKluwer.POS.Terminal.Utilities\bin\Debug\netstandard2.0\WolterKluwer.POS.Terminal.Utilities.dll
+C:\Bhushan\AsssesmentWolterKluwers\WolterKluwer.POS.Terminal.API\WolterKluwer.POS.Terminal.Utilities\bin\Debug\netstandard2.0\WolterKluwer.POS.Terminal.Utilities.pdb
+C:\Bhushan\AsssesmentWolterKluwers\WolterKluwer.POS.Terminal.API\WolterKluwer.POS.Terminal.Utilities\obj\Debug\netstandard2.0\WolterKluwer.POS.Terminal.Utilities.csprojResolveAssemblyReference.cache
+C:\Bhushan\AsssesmentWolterKluwers\WolterKluwer.POS.Terminal.API\WolterKluwer.POS.Terminal.Utilities\obj\Debug\netstandard2.0\WolterKluwer.POS.Terminal.Utilities.csproj.CoreCompileInputs.cache
+C:\Bhushan\AsssesmentWolterKluwers\WolterKluwer.POS.Terminal.API\WolterKluwer.POS.Terminal.Utilities\obj\Debug\netstandard2.0\WolterKluwer.POS.Terminal.Utilities.AssemblyInfoInputs.cache
+C:\Bhushan\AsssesmentWolterKluwers\WolterKluwer.POS.Terminal.API\WolterKluwer.POS.Terminal.Utilities\obj\Debug\netstandard2.0\WolterKluwer.POS.Terminal.Utilities.AssemblyInfo.cs
+C:\Bhushan\AsssesmentWolterKluwers\WolterKluwer.POS.Terminal.API\WolterKluwer.POS.Terminal.Utilities\obj\Debug\netstandard2.0\WolterKluwer.POS.Terminal.Utilities.dll
+C:\Bhushan\AsssesmentWolterKluwers\WolterKluwer.POS.Terminal.API\WolterKluwer.POS.Terminal.Utilities\obj\Debug\netstandard2.0\WolterKluwer.POS.Terminal.Utilities.pdb

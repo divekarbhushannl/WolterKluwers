@@ -1,0 +1,2 @@
+C:\Bhushan\AsssesmentWolterKluwers\WolterKluwer.POS.Terminal.API\WolterKluwer.POS.Terminal.Receipt\obj\Debug\WolterKluwer.POS.Terminal.Receipts.csprojResolveAssemblyReference.cache
+C:\Bhushan\AsssesmentWolterKluwers\WolterKluwer.POS.Terminal.API\WolterKluwer.POS.Terminal.Receipt\obj\Debug\WolterKluwer.POS.Terminal.Receipts.csproj.CoreCompileInputs.cache

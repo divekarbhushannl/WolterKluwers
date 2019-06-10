@@ -1,0 +1,17 @@
+C:\Bhushan\AsssesmentWolterKluwers\WolterKluwer.POS.Terminal.API\WolterKluwer.POS.Terminal.Console\bin\Debug\netcoreapp2.0\WolterKluwer.POS.Terminal.Console.deps.json
+C:\Bhushan\AsssesmentWolterKluwers\WolterKluwer.POS.Terminal.API\WolterKluwer.POS.Terminal.Console\bin\Debug\netcoreapp2.0\WolterKluwer.POS.Terminal.Console.runtimeconfig.json
+C:\Bhushan\AsssesmentWolterKluwers\WolterKluwer.POS.Terminal.API\WolterKluwer.POS.Terminal.Console\bin\Debug\netcoreapp2.0\WolterKluwer.POS.Terminal.Console.runtimeconfig.dev.json
+C:\Bhushan\AsssesmentWolterKluwers\WolterKluwer.POS.Terminal.API\WolterKluwer.POS.Terminal.Console\bin\Debug\netcoreapp2.0\WolterKluwer.POS.Terminal.Console.dll
+C:\Bhushan\AsssesmentWolterKluwers\WolterKluwer.POS.Terminal.API\WolterKluwer.POS.Terminal.Console\bin\Debug\netcoreapp2.0\WolterKluwer.POS.Terminal.Console.pdb
+C:\Bhushan\AsssesmentWolterKluwers\WolterKluwer.POS.Terminal.API\WolterKluwer.POS.Terminal.Console\bin\Debug\netcoreapp2.0\WolterKluwer.POS.Terminal.Business.dll
+C:\Bhushan\AsssesmentWolterKluwers\WolterKluwer.POS.Terminal.API\WolterKluwer.POS.Terminal.Console\bin\Debug\netcoreapp2.0\WolterKluwer.POS.Terminal.Entities.dll
+C:\Bhushan\AsssesmentWolterKluwers\WolterKluwer.POS.Terminal.API\WolterKluwer.POS.Terminal.Console\bin\Debug\netcoreapp2.0\WolterKluwer.POS.Terminal.Utilities.dll
+C:\Bhushan\AsssesmentWolterKluwers\WolterKluwer.POS.Terminal.API\WolterKluwer.POS.Terminal.Console\bin\Debug\netcoreapp2.0\WolterKluwer.POS.Terminal.Business.pdb
+C:\Bhushan\AsssesmentWolterKluwers\WolterKluwer.POS.Terminal.API\WolterKluwer.POS.Terminal.Console\bin\Debug\netcoreapp2.0\WolterKluwer.POS.Terminal.Entities.pdb
+C:\Bhushan\AsssesmentWolterKluwers\WolterKluwer.POS.Terminal.API\WolterKluwer.POS.Terminal.Console\bin\Debug\netcoreapp2.0\WolterKluwer.POS.Terminal.Utilities.pdb
+C:\Bhushan\AsssesmentWolterKluwers\WolterKluwer.POS.Terminal.API\WolterKluwer.POS.Terminal.Console\obj\Debug\netcoreapp2.0\WolterKluwer.POS.Terminal.Console.csprojResolveAssemblyReference.cache
+C:\Bhushan\AsssesmentWolterKluwers\WolterKluwer.POS.Terminal.API\WolterKluwer.POS.Terminal.Console\obj\Debug\netcoreapp2.0\WolterKluwer.POS.Terminal.Console.csproj.CoreCompileInputs.cache
+C:\Bhushan\AsssesmentWolterKluwers\WolterKluwer.POS.Terminal.API\WolterKluwer.POS.Terminal.Console\obj\Debug\netcoreapp2.0\WolterKluwer.POS.Terminal.Console.AssemblyInfoInputs.cache
+C:\Bhushan\AsssesmentWolterKluwers\WolterKluwer.POS.Terminal.API\WolterKluwer.POS.Terminal.Console\obj\Debug\netcoreapp2.0\WolterKluwer.POS.Terminal.Console.AssemblyInfo.cs
+C:\Bhushan\AsssesmentWolterKluwers\WolterKluwer.POS.Terminal.API\WolterKluwer.POS.Terminal.Console\obj\Debug\netcoreapp2.0\WolterKluwer.POS.Terminal.Console.dll
+C:\Bhushan\AsssesmentWolterKluwers\WolterKluwer.POS.Terminal.API\WolterKluwer.POS.Terminal.Console\obj\Debug\netcoreapp2.0\WolterKluwer.POS.Terminal.Console.pdb

@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WolterKluwer.POS.Terminal.Entities\WolterKluwer.POS.Terminal.Entities.csproj" />
+    <ProjectReference Include="..\WolterKluwer.POS.Terminal.Utilities\WolterKluwer.POS.Terminal.Utilities.csproj" />
+  </ItemGroup>
+
+</Project>
