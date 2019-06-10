@@ -3,6 +3,8 @@
 ---ReceiptGenerate class can implement both IEMAIL and IPrint -Interface segeregation principle
 ---IPaymentService and IPaymentProcessor is use for Charge the amount either by Card or Cash or Mobile- Dependency Inversion principle
 
+--WolterKluwer.POS.Terminal.API project is for Web API
+
 --WolterKluwerPOSTerminalTest --implemented Test Case using Nunit Framework
 Should_return_725M_when_ProductOrder_is_ABCD --return total Amount $7.25 
 Should_return_1325M_when_ProductOrder_is_ABCDABA--return total amount $13.25 
